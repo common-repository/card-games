@@ -1,0 +1,44 @@
+#image_preview{
+    width: 250px;
+    margin-top: 30px;
+}
+.cgwp_pagination li
+{
+display: inline-block;
+}
+.cgwp_game
+{
+    display: inline-block;
+    width: 19%;
+    margin-top: 20px;
+}
+.cgwp_game p{
+    margin-bottom: 0px;
+}
+.cgwp_pageing:active
+{
+    color: red;
+}
+#cgwp_search_game
+{
+    width: 400px;
+}
+.cgwp_cats
+{
+    vertical-align: top !important;
+    height: 27px !important;
+}
+.cgwp_search_form
+{
+    width: 40%;
+    display: inline-block;
+}
+.cgwp_author_link_check
+{
+    margin-top: 30px;
+    background-color: white;
+    width: 80%;
+    padding: 10px;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+}
